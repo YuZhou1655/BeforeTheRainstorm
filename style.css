@@ -160,6 +160,13 @@ nav {
   margin: 1%;
 }
 
+.subimgNote {
+  font-family: "Bebas Neue", cursive;
+  font-size: 0.8vw;
+  color: #463f3a;
+  text-align: center;
+}
+
 .imgColumn3 {
   float: left;
   width: 33.33%;

@@ -216,6 +216,14 @@ nav {
   text-align: center;
 }
 
+.content {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.6vw;
+  font-size: 1.6vw;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #463f3a;
+}
 
 .subcontent {
   font-family: "Oswald", sans-serif;
